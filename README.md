@@ -34,7 +34,7 @@
 ### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)  
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
-### 🚘 [GAaMa](https://github.com/JaimilModi/gaama)  
+### 🚘 [GAaMa](https://jaimilmodi.github.io/gaama/)  
 A GTA-style car showcase website. Built with HTML/CSS/JS to present game vehicle stats & visuals with style.
 
 ---
