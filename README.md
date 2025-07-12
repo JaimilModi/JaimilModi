@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I’m Jaimil Modi
 
-### 🌟 MERN-Stack Developer *|* Arduino & Systems Enthusiast
+### 🌟 MERN-Stack Developer
 
 ---
 
