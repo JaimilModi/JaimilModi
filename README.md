@@ -49,12 +49,6 @@ A chill & fun music website built using HTML, CSS, and JS. Designed to explore t
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimilModi&theme=dark&show_icons=true)
-
----
-
 ## ✨ Fun Fact
 
 > 🎧 I love listening to music while coding — it keeps my flow alive!
