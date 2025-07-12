@@ -1,30 +1,64 @@
-![Header Animation](https://github.com/JaimilModi/JaimilModi/raw/main/assets/header.gif)
+![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-# 👋 Hi, I’m **Jaimil Modi**
+# 👋 Hey there, I’m Jaimil Modi
 
-### 🎯 Full Stack Developer & IoT Enthusiast
-
----
-
-## 🚀 About Me
-
-- 🎓 Self‑taught in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — essentially a MERN/MEAN-style stack.
-- 🛠️ Strong foundation in **DSA using C**.
-- 📡 Experienced with **Arduino Uno**—solid basics in IoT, sensor integrations, and microcontroller logic.
-- 💻 Broad knowledge across core computer engineering domains: OS, DBMS, networking, embedded systems, etc.
-- 🌱 Always learning—exploring new frameworks, algorithms, and hardware projects daily.
+### 🌟 MERN-Stack Developer *|* Arduino & Systems Enthusiast
 
 ---
 
-## 🧰 My Tech Stack
+## 🔍 About Me
 
-| Category       | Tools & Technologies                                 |
-|----------------|-----------------------------------------------------|
-| 📝 Languages    | C, C++, Python, JavaScript                         |
-| 🌐 Frontend     | HTML, CSS, React, Next.js                          |
-| 🛠️ Backend      | Node.js, Express.js, REST APIs                     |
-| 💾 Database     | MongoDB, JSON-based storage                        |
-| 🧩 Data & Logic | DSA in C                                           |
-| 🔌 IoT/Hardware | Arduino Uno, basic electronics & sensor handling   |
+- 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
+- 🧠 Solid fundamentals in **data structures & algorithms using C**.
+- 📡 Hands-on experience with **Arduino Uno** — building IoT prototypes beyond the basics.
+- 🎯 Well-versed in core computing concepts: OS, DBMS, networking, embedded systems.
+- 🚀 Passionately coding and building every day — always leveling up!
 
 ---
+
+## 🛠️ Tech Stack
+
+| Domain        | Technologies & Tools                                      |
+|---------------|----------------------------------------------------------|
+| **Languages** | C, C++, Python, JavaScript                                |
+| **Frontend**  | HTML, CSS, React, Next.js                                 |
+| **Backend**   | Node.js, Express                                          |
+| **Database**  | MongoDB, JSON storage                                     |
+| **DSA**       | Implementation in C                                       |
+| **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
+
+---
+
+## 🚧 Key Projects
+
+### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)  
+Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
+
+### 🚘 [GAaMa](https://github.com/JaimilModi/gaama)  
+A GTA-style car showcase website. Built with HTML/CSS/JS to present game vehicle stats & visuals with style.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/JaimilModi"><img src="https://img.shields.io/badge/GitHub-JaimilModi-181717?style=flat&logo=github" alt="GitHub"></a>
+  <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaimilModi&theme=dark&show_icons=true)
+
+---
+
+## ✨ Fun Fact
+
+> Writing production-ready code feels better than coffee—even decades later! ☕️
+
+---
+
+**Feel free to star ⭐ any project or reach out for collabs, questions, or tech chats. Thanks for visiting!**
