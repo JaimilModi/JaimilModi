@@ -28,26 +28,3 @@
 | 🔌 IoT/Hardware | Arduino Uno, basic electronics & sensor handling   |
 
 ---
-
-## 🏆 Notable Projects
-
-Here are a few projects from my repos — check them out! ⭐
-
-- **[Project 1 Name]** – Short description: What the project does, tech used, and key highlights or learnings.
-- **[Project 2 Name]** – Short description: What the project does, tech used, and highlights.
-- **[Project 3 Name]** – Short description: What the project does, tech used, and highlights.
-
-*(Feel free to update the names, descriptions and add more repos from your profile.)*
-
----
-
-## ⏳ Learning Journey
-
-```mermaid
-flowchart LR
-    A[C & DSA] --> B[Python & Projects]
-    B --> C[Web Dev (HTML, CSS, JS)]
-    C --> D[React & Next.js]
-    D --> E[Node.js & REST APIs]
-    E --> F[IoT with Arduino]
-    F --> G[Full Stack + Embedded]
