@@ -34,16 +34,16 @@
 ### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)  
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
-### 🎶 [GAaMa – Music Listing Site](https://github.com/JaimilModi/gaama)  
+### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)  
 A chill & fun music website built using HTML, CSS, and JS. Designed to explore tracks and vibe while browsing.
 
-### 🎮 [Tic Tac Toe Game](https://github.com/JaimilModi/tictactoe)  
+### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)  
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
 
-### 🧠 [AI-Based App](https://github.com/JaimilModi/aiapp)  
+### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)  
 An experimental project exploring artificial intelligence concepts in frontend/backend integration.
 
-### 🔐 [Login System (Educational)](https://github.com/JaimilModi/login-page)  
+### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)  
 Simple and clean login/signup system using HTML/CSS/JS. Built for educational & demo purposes only — **not intended for production** use.
 
 ---
