@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I’m Jaimil Modi
 
-### 🌟 MERN-Stack Developer 
+### 🌟 MERN-Stack Developer *|* Arduino & Systems Enthusiast
 
 ---
 
@@ -34,8 +34,8 @@
 ### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)  
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
-### 🚘 [GAaMa](https://jaimilmodi.github.io/gaama/)  
-A GTA-style car showcase website. Built with HTML/CSS/JS to present game vehicle stats & visuals with style.
+### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)  
+A chill & fun music website built using HTML, CSS, and JS. Designed to explore tracks and vibe while browsing.
 
 ---
 
@@ -57,7 +57,7 @@ A GTA-style car showcase website. Built with HTML/CSS/JS to present game vehicle
 
 ## ✨ Fun Fact
 
-> Writing production-ready code feels better than coffee—even decades later! ☕️
+> 🎧 I love listening to music while coding — it keeps my flow alive!
 
 ---
 
