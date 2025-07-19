@@ -1,4 +1,4 @@
-![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Developer at Work](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 # 👋 Hey there, I’m Jaimil Modi
 
@@ -70,6 +70,8 @@ Simple and clean login/signup system using HTML/CSS/JS.
   <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </div>
+
+
 
 ---
 
