@@ -54,6 +54,7 @@ A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun
 
 ### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
 An experimental project exploring artificial intelligence concepts in frontend/backend integration.
+> 🎓 *Created for educational and demonstration purposes.*
 
 ### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
 Simple and clean login/signup system using HTML/CSS/JS.  
