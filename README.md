@@ -31,15 +31,19 @@
 
 ## 🚧 Key Projects
 
+## 🚧 Key Projects
+
 ### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-j5rx.onrender.com/)
-A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.
+A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
-A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.
+A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
+> 🎓 *Created for educational and demonstration purposes.*
 
 ### 🕓 [Flip Clock](https://jaimilmodi.github.io/clock/)
-Stylish flip-style clock design. Built for fun and UI exploration using HTML, CSS, and JS.
+Stylish flip-style clock design. Built for fun and UI exploration using HTML, CSS, and JS.  
+> 🎓 *Made for learning purposes and clock animation practice.*
 
 ### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
@@ -54,7 +58,8 @@ A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun
 An experimental project exploring artificial intelligence concepts in frontend/backend integration.
 
 ### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
-Simple and clean login/signup system using HTML/CSS/JS. Built for educational & demo purposes only — **not intended for production** use.
+Simple and clean login/signup system using HTML/CSS/JS.  
+> 🎓 *Built for educational & demo purposes only — not intended for production.*
 
 ---
 
