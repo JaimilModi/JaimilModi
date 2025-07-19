@@ -2,17 +2,17 @@
 
 # 👋 Hey there, I’m Jaimil Modi
 
-### 🌟 MERN-Stack Developer
+### 🌟 MERN-Stack Developer | IoT Enthusiast | Tech Explorer
 
 ---
 
 ## 🔍 About Me
 
 - 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
-- 🧠 Solid fundamentals in **data structures & algorithms using C**.
-- 📡 Hands-on experience with **Arduino Uno** — building IoT prototypes beyond the basics.
-- 🎯 Well-versed in core computing concepts: OS, DBMS, networking, embedded systems.
-- 🚀 Passionately coding and building every day — always leveling up!
+- 🧠 Strong grip on **data structures & algorithms (DSA) using C**.
+- 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
+- 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
+- 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
 
 ---
 
@@ -31,19 +31,29 @@
 
 ## 🚧 Key Projects
 
-### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)  
+### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-j5rx.onrender.com/)
+A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.
+> ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
+
+### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
+A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.
+
+### 🕓 [Flip Clock](https://jaimilmodi.github.io/clock/)
+Stylish flip-style clock design. Built for fun and UI exploration using HTML, CSS, and JS.
+
+### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
-### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)  
+### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)
 A chill & fun music website built using HTML, CSS, and JS. Designed to explore tracks and vibe while browsing.
 
-### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)  
+### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
 
-### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)  
+### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
 An experimental project exploring artificial intelligence concepts in frontend/backend integration.
 
-### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)  
+### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
 Simple and clean login/signup system using HTML/CSS/JS. Built for educational & demo purposes only — **not intended for production** use.
 
 ---
