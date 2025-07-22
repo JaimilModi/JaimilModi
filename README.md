@@ -35,6 +35,11 @@
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
+### 🍿 [Notflix – Movie Streaming Clone](https://notflix-clone.onrender.com/)
+A React-based Netflix-style UI clone with dark theme and interactive movie cards.  
+Built with reusable components and dummy data to simulate a sleek movie streaming interface.  
+> 🎓 *Educational project inspired by Netflix UI – not affiliated with or intended for commercial use.*
+
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
 > 🎓 *Created for educational and demonstration purposes.*
@@ -53,7 +58,7 @@ A chill & fun music website built using HTML, CSS, and JS. Designed to explore t
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
 
 ### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
-An experimental project exploring artificial intelligence concepts in frontend/backend integration.
+An experimental project exploring artificial intelligence concepts in frontend/backend integration.  
 > 🎓 *Created for educational and demonstration purposes.*
 
 ### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
@@ -69,8 +74,6 @@ Simple and clean login/signup system using HTML/CSS/JS.
   <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </div>
-
-
 
 ---
 
