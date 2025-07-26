@@ -35,11 +35,6 @@
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
-### 🍿 [Notflix – Movie Streaming Clone](https://notflix-clone.onrender.com/)
-A React-based Netflix-style UI clone with dark theme and interactive movie cards.  
-Built with reusable components and dummy data to simulate a sleek movie streaming interface.  
-> 🎓 *Educational project inspired by Netflix UI – not affiliated with or intended for commercial use.*
-
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
 > 🎓 *Created for educational and demonstration purposes.*
