@@ -31,7 +31,7 @@
 
 ## 🚧 Key Projects
 
-### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-j5rx.onrender.com/)
+### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
