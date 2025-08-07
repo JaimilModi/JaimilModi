@@ -35,6 +35,10 @@
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
+### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
+A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
+> ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
+
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
 > 🎓 *Created for educational and demonstration purposes.*
