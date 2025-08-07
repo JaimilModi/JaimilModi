@@ -1,5 +1,4 @@
 ![Developer at Work](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
 # 👋 Hey there, I’m Jaimil Modi
 
 ### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer
