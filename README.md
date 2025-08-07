@@ -51,7 +51,11 @@ Stylish flip-style clock design. Built for fun and UI exploration using HTML, CS
 Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
 ### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)
-A chill & fun music website built using HTML, CSS, and JS. Designed to explore tracks and vibe while browsing.
+Building a chill music site 🎧  
+Status: `in-dev` 🚧  
+Features coming soon: `playlist`, `music player`, maybe even `vibes detector.js` 😜  
+> *Stay tuned!*
+
 
 ### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
