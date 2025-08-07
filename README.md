@@ -3,7 +3,6 @@
 # 👋 Hey there, I’m Jaimil Modi
 
 ### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer
-
 ---
 
 ## 🔍 About Me
