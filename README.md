@@ -2,14 +2,14 @@
 
 # 👋 Hey there, I’m Jaimil Modi
 
-### 🌟 MERN-Stack Developer | IoT Enthusiast | Tech Explorer
+### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer
 
 ---
-
 
 ## 🔍 About Me
 
 - 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
+- 📱 Published app on **Amazon Appstore** — check out *Bomb Dodge* below!
 - 🧠 Strong grip on **data structures & algorithms (DSA) using C**.
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
@@ -27,10 +27,15 @@
 | **Database**  | MongoDB, JSON storage                                     |
 | **DSA**       | Implementation in C                                       |
 | **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
+| **Mobile**    | Android (Java), Amazon Appstore                          |
 
 ---
 
 ## 🚧 Key Projects
+
+### 💣 [Bomb Dodge – Android Game](https://www.amazon.com/gp/product/B0F6KPCNDR)
+A fun and fast-paced mobile game built for Android. Dodge falling bombs and try to beat your high score!  
+> 📱 *Now live on Amazon Appstore – give it a try!*
 
 ### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
@@ -57,7 +62,6 @@ Status: `in-dev` 🚧
 Features coming soon: `playlist`, `music player`, maybe even `vibes detector.js` 😜  
 > *Stay tuned!*
 
-
 ### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
 
@@ -71,13 +75,9 @@ Simple and clean login/signup system using HTML/CSS/JS.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-<div align="center">
-  <a href="https://github.com/JaimilModi"><img src="https://img.shields.io/badge/GitHub-JaimilModi-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
-</div>
+🔗 [GitHub](https://github.com/JaimilModi) • [LinkedIn](https://www.linkedin.com/in/jaimil-modi-799185353) • [Email](mailto:jaimildj381@gmail.com) • [X](#) *(link coming soon)*
 
 ---
 
