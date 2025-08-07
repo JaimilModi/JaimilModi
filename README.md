@@ -6,6 +6,7 @@
 
 ---
 
+
 ## 🔍 About Me
 
 - 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
