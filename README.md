@@ -33,6 +33,10 @@
 
 ## 🚧 Key Projects
 
+### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
+A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
+> ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
+
 ### 💣 [Bomb Dodge – Android Game](https://www.amazon.com/gp/product/B0F6KPCNDR)
 A fun and fast-paced mobile game built for Android. Dodge falling bombs and try to beat your high score!  
 > 📱 *Now live on Amazon Appstore – give it a try!*
@@ -40,10 +44,6 @@ A fun and fast-paced mobile game built for Android. Dodge falling bombs and try 
 ### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
-
-### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
-A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
-> ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
 
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
