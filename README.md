@@ -45,6 +45,13 @@ A fun and fast-paced mobile game built for Android. Dodge falling bombs and try 
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
+### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
+An experimental project exploring artificial intelligence concepts in frontend/backend integration.  
+> 🎓 *Created for educational and demonstration purposes.*
+
+### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)
+Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
+
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
 > 🎓 *Created for educational and demonstration purposes.*
@@ -52,9 +59,6 @@ A smooth animated rolling digit clock with real-time display. Aesthetic design w
 ### 🕓 [Flip Clock](https://jaimilmodi.github.io/clock/)
 Stylish flip-style clock design. Built for fun and UI exploration using HTML, CSS, and JS.  
 > 🎓 *Made for learning purposes and clock animation practice.*
-
-### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)
-Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
 
 ### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)
 Building a chill music site 🎧  
@@ -64,10 +68,6 @@ Features coming soon: `playlist`, `music player`, maybe even `vibes detector.js`
 
 ### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)
 A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
-
-### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
-An experimental project exploring artificial intelligence concepts in frontend/backend integration.  
-> 🎓 *Created for educational and demonstration purposes.*
 
 ### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
 Simple and clean login/signup system using HTML/CSS/JS.  
