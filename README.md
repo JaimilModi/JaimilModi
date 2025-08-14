@@ -27,7 +27,7 @@
 | **Database**  | MongoDB, JSON storage                                     |
 | **DSA**       | Implementation in C                                       |
 | **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
-| **Mobile**    | Android (Java), Amazon Appstore                          |
+| **Mobile**    | Android (C#), Amazon Appstore                          |
 
 ---
 
