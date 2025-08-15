@@ -10,7 +10,6 @@
 ## 🔍 About Me
 
 - 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
-- 📱 Published app on **Amazon Appstore** — check out *Bomb Dodge* below!
 - 🧠 Strong grip on **data structures & algorithms (DSA) using C**.
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
@@ -28,7 +27,6 @@
 | **Database**  | MongoDB, JSON storage                                     |
 | **DSA**       | Implementation in C                                       |
 | **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
-| **Mobile**    | Android (C#), Amazon Appstore                             |
 
 ---
 
@@ -38,10 +36,6 @@
 ### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
 A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
 > ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
-
-### 💣 [Bomb Dodge – Android Game](https://www.amazon.com/gp/product/B0F6KPCNDR)
-A fun and fast-paced mobile game built for Android. Dodge falling bombs and try to beat your high score!  
-> 📱 *Now live on Amazon Appstore – give it a try!*
 
 ### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
