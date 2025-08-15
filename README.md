@@ -2,7 +2,8 @@
 
 # 👋 Hey there, I’m Jaimil Modi
 
-### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer
+### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer  
+[🌐 View My Portfolio](https://jaimil-modi-portfolio.vercel.app/)
 
 ---
 
@@ -14,11 +15,11 @@
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
 - 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
+- 🌐 **Check out my full portfolio here:** [jaimil-modi-portfolio.vercel.app](https://jaimil-modi-portfolio.vercel.app/)
 
 ---
 
 ## 🛠️ Tech Stack
-
 | Domain        | Technologies & Tools                                      |
 |---------------|----------------------------------------------------------|
 | **Languages** | C, C++, Python, JavaScript                                |
@@ -27,11 +28,12 @@
 | **Database**  | MongoDB, JSON storage                                     |
 | **DSA**       | Implementation in C                                       |
 | **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
-| **Mobile**    | Android (C#), Amazon Appstore                          |
+| **Mobile**    | Android (C#), Amazon Appstore                             |
 
 ---
 
 ## 🚧 Key Projects
+*(Portfolio link also has the full list with screenshots & details → [View Portfolio](https://jaimil-modi-portfolio.vercel.app/))*
 
 ### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
 A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
@@ -76,7 +78,6 @@ Simple and clean login/signup system using HTML/CSS/JS.
 ---
 
 ## 📫 Let's Connect
-
 <div align="center">
   <a href="https://github.com/JaimilModi"><img src="https://img.shields.io/badge/GitHub-JaimilModi-181717?style=flat&logo=github" alt="GitHub"></a>
   <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
@@ -86,9 +87,9 @@ Simple and clean login/signup system using HTML/CSS/JS.
 ---
 
 ## ✨ Fun Fact
-
 > 🎧 I love listening to music while coding — it keeps my flow alive!
 
 ---
 
-**Feel free to star ⭐ any project or reach out for collabs, questions, or tech chats. Thanks for visiting!**
+**Feel free to star ⭐ any project or reach out for collabs, questions, or tech chats. Thanks for visiting!**  
+[🚀 Visit My Portfolio](https://jaimil-modi-portfolio.vercel.app/)
