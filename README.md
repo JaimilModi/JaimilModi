@@ -37,7 +37,7 @@
 A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
 > ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
 
-### 🍕 [Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
+### 🛒 [CraveCart – Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
 
