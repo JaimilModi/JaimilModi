@@ -3,7 +3,6 @@
 # 👋 Hey there, I’m Jaimil Modi
 
 ### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer  
-[🌐 View My Portfolio](https://jaimil-modi-portfolio.vercel.app/)
 
 ---
 
@@ -14,7 +13,6 @@
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
 - 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
-- 🌐 **Full portfolio here:** [jaimil-modi-portfolio.vercel.app](https://jaimil-modi-portfolio.vercel.app/)
 
 ---
 
@@ -31,7 +29,6 @@
 ---
 
 ## 🚧 Featured Projects
-*(More projects with details → [View Portfolio](https://jaimil-modi-portfolio.vercel.app/))*
 
 ### 🤖📋 [Taskora – AI Task Manager](https://taskora-ai.vercel.app)
 An intelligent productivity platform powered by AI that helps you **manage tasks with clarity and flow**.  
