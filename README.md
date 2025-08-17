@@ -14,7 +14,7 @@
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
 - 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
-- 🌐 **Check out my full portfolio here:** [jaimil-modi-portfolio.vercel.app](https://jaimil-modi-portfolio.vercel.app/)
+- 🌐 **Full portfolio here:** [jaimil-modi-portfolio.vercel.app](https://jaimil-modi-portfolio.vercel.app/)
 
 ---
 
@@ -30,44 +30,24 @@
 
 ---
 
-## 🚧 Key Projects
-*(Portfolio link also has the full list with screenshots & details → [View Portfolio](https://jaimil-modi-portfolio.vercel.app/))*
+## 🚧 Featured Projects
+*(More projects with details → [View Portfolio](https://jaimil-modi-portfolio.vercel.app/))*
 
-### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com/)
+### 🤖📋 [Taskora – AI Task Manager](https://taskora-ai.vercel.app)
+An intelligent productivity platform powered by AI that helps you **manage tasks with clarity and flow**.  
+> 🧠 Built with modern stack + AI integration.
+
+### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com)
 A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
 > ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
 
-### 🛒 [CraveCart – Food Delivery Web App (Full Stack)](https://food-del-frontend-uva2.onrender.com/)
+### 🛒 [CraveCart – Food Delivery Web App](https://food-del-frontend-uva2.onrender.com)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
-> ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting (Render cold start).*
-
-### 🧠 [AI-Based App](https://ai-nu-taupe-29.vercel.app/)
-An experimental project exploring artificial intelligence concepts in frontend/backend integration.  
-> 🎓 *Created for educational and demonstration purposes.*
-
-### 📝 [To-Do List Web App](https://jaimilmodi.github.io/toDoList/)
-Classic JS + HTML/CSS to-do list with dynamic frontend. Clean UI and easy usability.
+> ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting.*
 
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
-A smooth animated rolling digit clock with real-time display. Aesthetic design with dark mode toggle.  
-> 🎓 *Created for educational and demonstration purposes.*
-
-### 🕓 [Flip Clock](https://jaimilmodi.github.io/clock/)
-Stylish flip-style clock design. Built for fun and UI exploration using HTML, CSS, and JS.  
-> 🎓 *Made for learning purposes and clock animation practice.*
-
-### 🎶 [GAaMa – Music Listing Site](https://jaimilmodi.github.io/gaama/)
-Building a chill music site 🎧  
-Status: `in-dev` 🚧  
-Features coming soon: `playlist`, `music player`, maybe even `vibes detector.js` 😜  
-> *Stay tuned!*
-
-### 🎮 [Tic Tac Toe Game](https://jaimilmodi.github.io/tic-tac-toe/)
-A classic Tic Tac Toe game made for smooth, chill gameplay — perfect for a fun break.
-
-### 🔐 [Login System (Educational)](https://jaimilmodi.github.io/login/)
-Simple and clean login/signup system using HTML/CSS/JS.  
-> 🎓 *Built for educational & demo purposes only — not intended for production.*
+A smooth animated rolling digit clock with real-time display and dark mode toggle.  
+> 🎨 Built for aesthetics & practice.
 
 ---
 
@@ -85,5 +65,5 @@ Simple and clean login/signup system using HTML/CSS/JS.
 
 ---
 
-**Feel free to star ⭐ any project or reach out for collabs, questions, or tech chats. Thanks for visiting!**  
+**⭐ Star a repo or reach out for collabs, questions, or tech chats. Thanks for visiting!**  
 [🚀 Visit My Portfolio](https://jaimil-modi-portfolio.vercel.app/)
