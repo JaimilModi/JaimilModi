@@ -51,7 +51,7 @@ A smooth animated rolling digit clock with real-time display and dark mode toggl
 ## 📫 Let's Connect
 <div align="center">
   <a href="https://github.com/JaimilModi"><img src="https://img.shields.io/badge/GitHub-JaimilModi-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="mailto:jaimildj381@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
+  <a href="mailto:jaimil2412@gmail.com"><img src="https://img.shields.io/badge/Email-jaimildj381%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </div>
 
