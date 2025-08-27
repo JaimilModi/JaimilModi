@@ -57,6 +57,39 @@
 
 ---
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+
+<div align="center">
+
+  <a href="https://github.com/JaimilModi">
+    <img width="400" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JaimilModi&count_private=true&theme=react&border_radius=10" alt="streak stats" style="margin-right: 15px;" />
+  </a>
+
+  <a href="https://github.com/JaimilModi">
+    <img width="400" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=JaimilModi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="margin-left: 15px;" />
+  </a>
+
+  <br/><br/>
+
+  <a href="https://github.com/JaimilModi">
+    <img width="820" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JaimilModi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs"/>
+  </a>
+
+</div>
+
+
+
+
+---
+
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+---
+
 <h2 align="center">📫 Connect with Me</h2>
 <br/>
 <div align="center">
@@ -71,13 +104,6 @@
   <a href="https://jaimil-modi-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-</div>
-
----
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
 ---
