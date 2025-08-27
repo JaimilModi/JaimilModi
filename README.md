@@ -8,56 +8,70 @@
 
 <div align="center">
 
-🔭 I’m working on projects that make an actual impact, not just code
-
-🌱 Learning consistency > motivation in both coding and life 
-
-⚡ Fun fact: **I love listening to music while coding 🎧 — it keeps my flow alive!**
+🔭 I’m working on projects that make an **actual impact**, not just code  
+🌱 Currently learning that **consistency > motivation** in both coding and life  
+⚡ Fun fact: *I love listening to music while coding 🎧 — keeps my flow alive!*  
 
 </div>
 
-<br/>
+---
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,arduino" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nextjs,nodejs,express,mongodb,mysql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,arduino,postman" />
 </div>
 
-<div align="center">
-
-</div>
-
-<br/>
+---
 
 <h2 align="center">🚧 Featured Projects 🚧</h2>
 <br/>
 
-<div align="center">
+<div align="left">
 
-🌟 **[Taskora – AI Task Manager](https://taskora-ai.vercel.app/)**  
-🧠 *Boost productivity with an AI-powered task manager that thinks for you!*  
+### 🤖📋 [Taskora – AI Task Manager](https://taskora-ai.vercel.app)  
+🧠 An intelligent productivity platform powered by AI that helps you **organize tasks with clarity & flow**.  
+> ⚡ *Built with MERN stack + AI integration.*  
 
-<br/>
+---
 
-💬 **[SnappyTalk – Chatting App](https://snappytalk.onrender.com/)**  
-⚡ *Real-time chat with MERN + Socket.IO for instant conversations.*  
+### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com)  
+⚡ A real-time chatting app built with **MERN & Socket.IO**. Chat instantly with others in a **fun & smooth UI**.  
+> ⏳ *May take a few seconds to load due to Render’s free-tier backend.*  
 
-<br/>
+---
 
-🛒 **[CraveCart – Food Delivery](https://food-del-frontend-uva2.onrender.com/)**  
-🍔 *A complete MERN-based food ordering experience.*  
+### 🛒 [CraveCart – Food Delivery Web App](https://food-del-frontend-uva2.onrender.com)  
+🍔 A fully functional **food delivery platform** where users can browse items, log in, and place orders.  
+> ⏳ *First load may take 30–60 seconds (free-tier hosting).*  
 
-<br/>
+---
 
-🩺 **[ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)**  
-🧠 *Smart AI to analyze symptoms & medical reports instantly.*  
+### 🩺 [ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app)  
+🧠 An AI-powered healthcare assistant that lets users **write symptoms, upload reports, and receive instant AI-based analysis & suggestions**.  
+> 💡 Aiming to solve real-world healthcare challenges through smart automation.  
 
 </div>
 
+---
+
+<h2 align="center">📫 Connect with Me</h2>
 <br/>
+<div align="center">
+  <a href="mailto:jaimil2412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jaimil2412%40gmail.com-D14836?style=flat&logo=gmail" alt="Email">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/jaimil-modi-799185353">
+    <img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn">
+  </a>
+  
+  <a href="https://jaimil-modi-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5722?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</div>
 
 ---
 
@@ -66,31 +80,8 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-
-<br/>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br/>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JaimilModi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JaimilModi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/><br/>
-  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JaimilModi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
-</div>
-
-
-<br/>
-
-
-<h2 align="center">📫 Let's Connect</h2>
-<div align="center">
-  <a href="mailto:jaimil2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-jaimil2412%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://jaimil-modi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-</div>
-
-<br/>
+---
 
 <div align="center">
-⭐ Star a repo or reach out for collabs, questions, or tech chats. Thanks for visiting!  
+⭐ If you like my work, consider giving a star — it helps more than you think! ⭐  
 </div>
