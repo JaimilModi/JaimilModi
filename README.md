@@ -16,50 +16,58 @@
 
 </div>
 
----
+<br/>
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,bootstrap,arduino" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,tailwind,bootstrap,arduino" />
 </div>
 
 <div align="center">
 
 </div>
 
----
+<br/>
 
 <h2 align="center">🚧 Featured Projects 🚧</h2>
 <br/>
 
-- 🤖 **[Taskora – AI Task Manager](https://taskora-ai.vercel.app/)**  
-  🧠 Productivity app powered by AI to manage tasks smartly.
-
-- 💬 **[SnappyTalk – Chatting App](https://snappytalk.onrender.com/)**  
-  ⚡ Real-time chat built with MERN & Socket.IO.
-
-- 🛒 **[CraveCart – Food Delivery](https://food-del-frontend-uva2.onrender.com/)**  
-  🍔 MERN-based food ordering platform.
-
-- 🩺 **[ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)**  
-  🧠 AI-powered tool to analyze symptoms & medical reports.
-
-- 🕰️ **[Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)**  
-  🎨 Animated rolling digit clock with dark mode.
-
----
-
-
-<h2 align="center">🐍 My Contributions 🐍</h2>
-<br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JaimilModi/JaimilModi/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+
+🌟 **[Taskora – AI Task Manager](https://taskora-ai.vercel.app/)**  
+🧠 *Boost productivity with an AI-powered task manager that thinks for you!*  
+
+<br/>
+
+💬 **[SnappyTalk – Chatting App](https://snappytalk.onrender.com/)**  
+⚡ *Real-time chat with MERN + Socket.IO for instant conversations.*  
+
+<br/>
+
+🛒 **[CraveCart – Food Delivery](https://food-del-frontend-uva2.onrender.com/)**  
+🍔 *A complete MERN-based food ordering experience.*  
+
+<br/>
+
+🩺 **[ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)**  
+🧠 *Smart AI to analyze symptoms & medical reports instantly.*  
+
 </div>
 
+<br/>
+
 ---
+
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</div>
+
+
+<br/>
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
@@ -71,7 +79,7 @@
 </div>
 
 
----
+<br/>
 
 
 <h2 align="center">📫 Let's Connect</h2>
@@ -81,7 +89,7 @@
   <a href="https://jaimil-modi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 
----
+<br/>
 
 <div align="center">
 ⭐ Star a repo or reach out for collabs, questions, or tech chats. Thanks for visiting!  
