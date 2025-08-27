@@ -1,70 +1,88 @@
-![Developer at Work](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jaimil+Modi!;" />
+</h1>
 
-# 👋 Hey there, I’m Jaimil Modi
+<h3 align="center">🌟 MERN-Stack Developer | IoT Enthusiast | Tech Explorer | App Developer</h3>
 
-### 🌟 MERN-Stack Developer | IoT Enthusiast | App Developer | Tech Explorer  
+<br/>
 
----
-
-## 🔍 About Me
-
-- 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
-- 🧠 Strong grip on **data structures & algorithms (DSA using C)**.
-- 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
-- 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
-- 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
-
----
-
-## 🛠️ Tech Stack
-| Domain        | Technologies & Tools                                      |
-|---------------|----------------------------------------------------------|
-| **Languages** | C, C++, Python, JavaScript                                |
-| **Frontend**  | HTML, CSS, React, Next.js                                 |
-| **Backend**   | Node.js, Express                                          |
-| **Database**  | MongoDB, JSON storage                                     |
-| **DSA**       | Implementation in C                                       |
-| **IoT / HW**  | Arduino Uno, sensors, microcontrollers                    |
-
----
-
-## 🚧 Featured Projects
-
-### 🤖📋 [Taskora – AI Task Manager](https://taskora-ai.vercel.app)
-An intelligent productivity platform powered by AI that helps you **manage tasks with clarity and flow**.  
-> 🧠 Built with modern stack + AI integration.
-
-### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com)
-A real-time chatting app built using the MERN stack and Socket.IO. Chat instantly with others in a smooth and fun UI.  
-> ⚠️ *May take a few seconds to load due to free-tier backend (Render cold start).*
-
-### 🛒 [CraveCart – Food Delivery Web App](https://food-del-frontend-uva2.onrender.com)
-A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
-> ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting.*
-
-### 🩺 [ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)
-An AI-powered healthcare application that allows users to **write symptoms, upload medical reports, and get AI-based analysis and suggestions**.  
-> 🧠 Solving real-world healthcare problems by streamlining patient management and assisting clinical decision-making.
-
-### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
-A smooth animated rolling digit clock with real-time display and dark mode toggle.  
-> 🎨 Built for aesthetics & practice.
-
----
-
-## 📫 Let's Connect
 <div align="center">
-  <a href="https://github.com/JaimilModi"><img src="https://img.shields.io/badge/GitHub-JaimilModi-181717?style=flat&logo=github" alt="GitHub"></a>
-  <a href="mailto:jaimil2412@gmail.com"><img src="https://img.shields.io/badge/Email-jaimil2412%40gmail.com-D14836?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+
+🔭 I’m working on projects that make an actual impact, not just code
+
+🌱 Learning consistency > motivation in both coding and life 
+
+⚡ Fun fact: **I love listening to music while coding 🎧 — it keeps my flow alive!**
+
 </div>
 
 ---
 
-## ✨ Fun Fact
-> 🎧 I love listening to music while coding — it keeps my flow alive!
+<h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tailwind,bootstrap,arduino" />
+</div>
+
+<div align="center">
+
+</div>
 
 ---
 
-**⭐ Star a repo or reach out for collabs, questions, or tech chats. Thanks for visiting!**  
-[🚀 Visit My Portfolio](https://jaimil-modi-portfolio.vercel.app/)
+<h2 align="center">🚧 Featured Projects 🚧</h2>
+<br/>
+
+- 🤖 **[Taskora – AI Task Manager](https://taskora-ai.vercel.app/)**  
+  🧠 Productivity app powered by AI to manage tasks smartly.
+
+- 💬 **[SnappyTalk – Chatting App](https://snappytalk.onrender.com/)**  
+  ⚡ Real-time chat built with MERN & Socket.IO.
+
+- 🛒 **[CraveCart – Food Delivery](https://food-del-frontend-uva2.onrender.com/)**  
+  🍔 MERN-based food ordering platform.
+
+- 🩺 **[ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)**  
+  🧠 AI-powered tool to analyze symptoms & medical reports.
+
+- 🕰️ **[Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)**  
+  🎨 Animated rolling digit clock with dark mode.
+
+---
+
+
+<h2 align="center">🐍 My Contributions 🐍</h2>
+<br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JaimilModi/JaimilModi/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</div>
+
+---
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=JaimilModi&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=JaimilModi&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=JaimilModi&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+
+---
+
+
+<h2 align="center">📫 Let's Connect</h2>
+<div align="center">
+  <a href="mailto:jaimil2412@gmail.com"><img src="https://img.shields.io/badge/Gmail-jaimil2412%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaimil-modi-799185353"><img src="https://img.shields.io/badge/LinkedIn-Jaimil%20Modi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://jaimil-modi-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+⭐ Star a repo or reach out for collabs, questions, or tech chats. Thanks for visiting!  
+</div>
