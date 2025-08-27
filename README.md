@@ -9,7 +9,7 @@
 ## 🔍 About Me
 
 - 💻 Skilled in **C, C++, Python, HTML, CSS, JavaScript, React, Next.js** — with a MERN-style full-stack foundation.
-- 🧠 Strong grip on **data structures & algorithms (DSA) using C**.
+- 🧠 Strong grip on **data structures & algorithms (DSA using C)**.
 - 📡 Experience with **Arduino Uno** — exploring sensors, microcontrollers, and IoT integrations.
 - 🧠 Knowledgeable in **OS, DBMS, Networking, and Embedded Systems**.
 - 🚀 I code daily, experiment weekly, and keep building cool stuff — always hungry to learn more.
@@ -41,6 +41,10 @@ A real-time chatting app built using the MERN stack and Socket.IO. Chat instantl
 ### 🛒 [CraveCart – Food Delivery Web App](https://food-del-frontend-uva2.onrender.com)
 A fully functional MERN-stack food delivery platform. Users can browse items, log in, and place orders.  
 > ⚠️ *Note: May take 30–60 seconds to load due to free-tier backend hosting.*
+
+### 🩺 [ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app/)
+An AI-powered healthcare application that allows users to **write symptoms, upload medical reports, and get AI-based analysis and suggestions**.  
+> 🧠 Solving real-world healthcare problems by streamlining patient management and assisting clinical decision-making.
 
 ### 🕰️ [Rolling Digital Clock](https://jaimilmodi.github.io/digital-clock/)
 A smooth animated rolling digit clock with real-time display and dark mode toggle.  
