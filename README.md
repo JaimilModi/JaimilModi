@@ -66,9 +66,10 @@
 
 ---
 
-<br/>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  
+ ![snake gif](https://github.com/JaimilModi/JaimilModi/blob/output/github-snake-dark.svg)
+ 
 </div>
 
 ---
