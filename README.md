@@ -52,7 +52,7 @@
     <td width="50%" align="center" valign="top">
       <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
         <h3>🤖 <a href="https://taskora-ai.vercel.app">Taskora – AI Task Manager</a></h3>
-        <img src="https://via.placeholder.com/300x180.png?text=Taskora+Preview" width="85%" alt="Taskora Preview" style="border-radius:8px;"/>
+        <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/TaskoraAI.png" width="85%" alt="Taskora Preview" style="border-radius:8px;"/>
         <p>Productivity platform that helps you <b>organize tasks with clarity & flow</b>.</p>
         <p><i>AI-enhanced task management.</i></p>
         <img src="https://skillicons.dev/icons?i=react,vite,ai,express,nodejs,mysql" />
@@ -61,7 +61,7 @@
     <td width="50%" align="center" valign="top">
   <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
     <h3>💬 <a href="https://snappytalk.onrender.com">SnappyTalk – Chatting App</a></h3>
-    <img src="https://via.placeholder.com/300x180.png?text=SnappyTalk+Preview" width="85%" alt="SnappyTalk Preview" style="border-radius:8px;"/>
+   <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/snappyTalk.png" width="85%" alt="SnappyTalk Preview" style="border-radius:8px;"/>
     <p>Real-time chat app with <b>MERN & Socket.IO</b>.</p>
     <p><i>Free tier hosting – may take a short initial load.</i></p>
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
@@ -72,7 +72,7 @@
     <td width="50%" align="center" valign="top">
   <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
     <h3>🛒 <a href="https://food-del-frontend-uva2.onrender.com">CraveCart – Food Delivery</a></h3>
-    <img src="https://via.placeholder.com/300x180.png?text=CraveCart+Preview" width="85%" alt="CraveCart Preview" style="border-radius:8px;"/>
+    <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/CraveCart.png" width="85%" alt="CraveCart Preview" style="border-radius:8px;"/>
     <p>A <b>food delivery platform</b> where users can browse, log in & order food.</p>
     <p><i>Free hosting – first load may take a short while.</i></p>
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" />
@@ -81,7 +81,7 @@
     <td width="50%" align="center" valign="top">
       <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
         <h3>🩺 <a href="https://clinix-ai.vercel.app">ClinixAI – Healthcare Assistant</a></h3>
-        <img src="https://via.placeholder.com/300x180.png?text=ClinixAI+Preview" width="85%" alt="ClinixAI Preview" style="border-radius:8px;"/>
+        <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/ClinixAI.png" width="85%" alt="ClinixAI Preview" style="border-radius:8px;"/>
         <p>AI-based assistant for <b>symptom checking & instant report analysis</b>.</p>
         <p><i>Built with MERN + AI integration.</i></p>
         <img src="https://skillicons.dev/icons?i=vite,nodejs,react,mysql,ai" />
