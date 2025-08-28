@@ -14,13 +14,29 @@
 
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,python,php,html,css,sass" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,angular,bootstrap,tailwind" /><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,firebase" />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,arduino,postman" />
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<div align="center" class="skills">
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,python,php,html,css,sass" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,angular,bootstrap,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,cassandra,firebase" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,unity,arduino,postman" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
 </div>
+
+<style>
+.skills img {
+  max-width: 100%;
+  height: auto;
+  margin: 5px;
+}
+
+.skills {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px; /* spacing between icons */
+}
+</style>
+
 
 ---
 
