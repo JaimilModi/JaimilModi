@@ -37,27 +37,52 @@
 
 ## 🚧 Featured Projects  
 
-### 🤖 [Taskora – AI Task Manager](https://taskora-ai.vercel.app)  
-🧠 AI-powered productivity platform that helps you **organize tasks with clarity & flow**.  
-> ⚡ Built with **MERN stack + AI integration**.  
+<div align="center">
 
----
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+        <h3>🤖 <a href="https://taskora-ai.vercel.app">Taskora – AI Task Manager</a></h3>
+        <img src="https://via.placeholder.com/300x180.png?text=Taskora+Preview" width="85%" alt="Taskora Preview" style="border-radius:8px;"/>
+        <p>Productivity platform that helps you <b>organize tasks with clarity & flow</b>.</p>
+        <p><i>AI-enhanced task management.</i></p>
+        <img src="https://skillicons.dev/icons?i=react,vite,ai,express,nodejs,mysql" />
+      </div>
+    </td>
+    <td width="50%" align="center" valign="top">
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+    <h3>💬 <a href="https://snappytalk.onrender.com">SnappyTalk – Chatting App</a></h3>
+    <img src="https://via.placeholder.com/300x180.png?text=SnappyTalk+Preview" width="85%" alt="SnappyTalk Preview" style="border-radius:8px;"/>
+    <p>Real-time chat app with <b>MERN & Socket.IO</b>.</p>
+    <p><i>Free tier hosting – may take a short initial load.</i></p>
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
+  </div>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+  <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+    <h3>🛒 <a href="https://food-del-frontend-uva2.onrender.com">CraveCart – Food Delivery</a></h3>
+    <img src="https://via.placeholder.com/300x180.png?text=CraveCart+Preview" width="85%" alt="CraveCart Preview" style="border-radius:8px;"/>
+    <p>A <b>food delivery platform</b> where users can browse, log in & order food.</p>
+    <p><i>Free hosting – first load may take a short while.</i></p>
+    <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" />
+  </div>
+</td>
+    <td width="50%" align="center" valign="top">
+      <div style="border: 1px solid #ddd; border-radius: 12px; padding: 15px; margin: 8px;">
+        <h3>🩺 <a href="https://clinix-ai.vercel.app">ClinixAI – Healthcare Assistant</a></h3>
+        <img src="https://via.placeholder.com/300x180.png?text=ClinixAI+Preview" width="85%" alt="ClinixAI Preview" style="border-radius:8px;"/>
+        <p>AI-based assistant for <b>symptom checking & instant report analysis</b>.</p>
+        <p><i>Built with MERN + AI integration.</i></p>
+        <img src="https://skillicons.dev/icons?i=vite,nodejs,react,mysql,ai" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 💬 [SnappyTalk – Chatting App](https://snappytalk.onrender.com)  
-⚡ Real-time chatting app using **MERN & Socket.IO** with a smooth UI.  
-> ⏳ *Might take a few seconds to load (Render free-tier).*  
-
----
-
-### 🛒 [CraveCart – Food Delivery](https://food-del-frontend-uva2.onrender.com)  
-🍔 A **food delivery platform** where users can browse, log in & order food.  
-> ⏳ *First load may take 30–60 sec (free hosting).*  
-
----
-
-### 🩺 [ClinixAI – Healthcare Assistant](https://clinix-ai.vercel.app)  
-🧠 AI-based healthcare assistant for **symptom checking & instant report analysis**.  
-> 💡 Solving real-world healthcare challenges with automation.  
+</div>
 
 ---
 
