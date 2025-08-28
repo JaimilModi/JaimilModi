@@ -22,7 +22,11 @@
 
 ---
 
+<div align="center">
+  
 ## 📊 GitHub Stats  
+  
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JaimilModi&theme=transparent&hide_border=true&show_icons=true" height="160" />
@@ -35,7 +39,11 @@
 
 ---
 
+<div align="center">
+
 ## 🚧 Featured Projects  
+
+</div>
 
 <div align="center">
 
@@ -94,7 +102,11 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 Connect with Me  
+
+</div>
 
 <p align="center">
   <a href="https://instagram.com/jaimil._.381"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
