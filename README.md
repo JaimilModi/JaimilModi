@@ -15,7 +15,7 @@
 <h2 align="center">⚒️ Languages • Frameworks • Tools ⚒️</h2>
 <br/>
 <div align="center">
- <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,python,php,html,css,sass,react,nextjs,vite,nodejs,express,angular,bootstrap,tailwind,mongodb,mysql,cassandra,firebase,git,github,vscode,figma,unity,arduino,postman,vercel,netlify&perline=10" />
+ <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,python,php,html,css,sass,react,nextjs,vite,nodejs,express,angular,bootstrap,tailwind,mongodb,mysql,cassandra,firebase,git,github,vscode,figma,unity,arduino,postman,sketchup,vercel,netlify&perline=10" />
 
 </div>
 
