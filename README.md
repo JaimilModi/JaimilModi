@@ -24,17 +24,28 @@
 <div align="center">
   
 ## 📊 GitHub Stats  
-  
+
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaimilModi&theme=transparent&hide_border=true&show_icons=true" height="160" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=JaimilModi&theme=transparent&hide_border=true" height="160" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaimilModi&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9&icon_color=c9d1d9" 
+    height="160"
+  />
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JaimilModi&hide_border=true&theme=transparent&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" 
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimilModi&theme=transparent&hide_border=true&layout=compact" height="160" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaimilModi&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9" 
+    height="160"
+  />
 </p>
+
 
 ---
 
