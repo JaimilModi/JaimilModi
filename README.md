@@ -27,28 +27,31 @@
 
 <br/>
 
-<!-- Row 1 -->
+<!-- Row 1: Stats + Activity Graph -->
 <p>
-  <img 
+  <!-- Main GitHub Stats -->
+  <img
     height="160"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaimilModi&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9&icon_color=c9d1d9"
   />
-  
-  <img 
+
+  <!-- Activity Graph (middle card instead of streak) -->
+  <img
     height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JaimilModi&hide_border=true&theme=transparent&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JaimilModi&bg_color=00000000&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=true&hide_border=true"
   />
 </p>
 
-<!-- Row 2 -->
+<!-- Row 2: Top Languages -->
 <p>
-  <img 
+  <img
     height="160"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaimilModi&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9"
   />
 </p>
 
 </div>
+
 
 
 
