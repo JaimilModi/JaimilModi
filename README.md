@@ -91,8 +91,29 @@
   </tr>
 
   <tr>
-    <!-- CraveCart -->
-    <td width="50%" align="center" valign="top">
+
+  <!-- Run-Craft -->
+<td width="50%" align="center" valign="top">
+  <div style="background: rgba(255,255,255,0.05); border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <h3>⚡ <a href="https://run-craft.vercel.app/">Run-Craft – Online Code Editor</a></h3>
+    <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/run-craft.png" 
+         width="75%" 
+         alt="Run-Craft Preview" 
+         style="border-radius:16px; margin-bottom:10px;"/>
+    <p>
+      <b>Modern browser-based code editor & execution platform</b> that lets developers write, run, and manage code instantly — designed like a lightweight cloud IDE.
+    </p>
+    <p>
+      <i>
+        Features: Monaco-powered editor, real-time code execution, authentication, snippet management, smooth animations, and secure backend integration.
+      </i>
+    </p>
+    <img src="https://skillicons.dev/icons?i=nextjs,typescript,tailwind,react,nodejs" />
+  </div>
+</td>
+    
+  <!-- CraveCart -->
+  <td width="50%" align="center" valign="top">
   <div style="background: rgba(255,255,255,0.05); border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
     <h3>🛒 <a href="https://food-del-frontend-uva2.onrender.com">CraveCart – Food Delivery</a></h3>
     <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/CraveCart.png" width="75%" alt="CraveCart Preview" style="border-radius:16px; margin-bottom:10px;"/>
@@ -103,7 +124,7 @@
   </div>
 </td>
     <!-- ClinixAI -->
-    <td width="50%" align="center" valign="top">
+    <!-- <td width="50%" align="center" valign="top">
       <div style="background: rgba(255,255,255,0.05); border: 1px solid #ddd; border-radius: 14px; padding: 18px; margin: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
         <h3>🩺 <a href="https://clinix-ai.vercel.app">ClinixAI – Healthcare Assistant</a></h3>
         <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/ClinixAI.png" width="75%" alt="ClinixAI Preview" style="border-radius:16px; margin-bottom:10px;"/>
@@ -111,7 +132,7 @@
         <p><i>Features: chatbot interface, medical AI integration, fast & accessible healthcare support.</i></p>
         <img src="https://skillicons.dev/icons?i=react,vite,nodejs,mysql,tailwind" />
       </div>
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -143,5 +164,5 @@
 ---
 
 <div align="center">
-⭐ If you like my work, consider giving a star — it helps more than you think! ⭐  
+⭐ If you like my work, consider giving a star ⭐  
 </div>
