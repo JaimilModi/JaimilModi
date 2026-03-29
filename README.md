@@ -83,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/snappyTalk.png" width="75%" alt="SnappyTalk Preview" style="border-radius:16px; margin-bottom:10px;"/>
     <p>A real-time chatting app built with <b>MERN & Socket.IO</b> for seamless conversations.</p>
     <p><i>Features: one-to-one chat, online/offline status, modern UI, instant updates.</i></p>
-    <p style="font-size: 4px; color: gray; opacity: 0.6; margin-top: -5px;"><i>⏳ Hosted on Render free-tier – may take 30–60 sec to start</i></p>
+    <!-- <p style="font-size: 4px; color: gray; opacity: 0.6; margin-top: -5px;"><i>⏳ Hosted on Render free-tier – may take 30–60 sec to start</i></p> -->
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,tailwind,mongodb" />
   </div>
 </td>
@@ -118,7 +118,7 @@
     <img src="https://raw.githubusercontent.com/JaimilModi/github-profile-assets/main/CraveCart.png" width="75%" alt="CraveCart Preview" style="border-radius:16px; margin-bottom:10px;"/>
     <p><b>Food delivery platform</b> where users can browse restaurants, log in, and order food in real time.</p>
     <p><i>Features: cart system, user authentication, responsive design, smooth ordering experience.</i></p>
-    <p style="font-size: 4px; color: gray; opacity: 0.6; margin-top: -5px;"><i>⏳ Hosted on Render free-tier – may take 30–60 sec to start</i></p>
+    <!-- <p style="font-size: 4px; color: gray; opacity: 0.6; margin-top: -5px;"><i>⏳ Hosted on Render free-tier – may take 30–60 sec to start</i></p> -->
     <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,mongodb" />
   </div>
 </td>
