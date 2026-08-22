@@ -30,10 +30,10 @@
 <!-- Row 1: Stats + Activity Graph -->
 <p>
   <!-- Main GitHub Stats -->
-  <img
+  <!-- <img
     height="160"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaimilModi&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9&icon_color=c9d1d9"
-  />
+  /> -->
 
   <!-- Activity Graph (middle card instead of streak) -->
   <img
@@ -44,11 +44,11 @@
 
 <!-- Row 2: Top Languages -->
 <p>
-  <img
+  <!-- <img
     height="160"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaimilModi&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9"
   />
-</p>
+</p> -->
 
 </div>
 
