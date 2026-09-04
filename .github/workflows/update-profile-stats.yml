@@ -42,11 +42,42 @@ jobs:
       - name: Copy activity graph into profile
         run: cp dist/activity-graph.svg profile/activity-graph.svg
 
-      - name: Commit generated cards
+      - name: Update README image references
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path("README.md")
+          text = path.read_text(encoding="utf-8")
+
+          pattern = re.compile(r"## 📊 GitHub Stats.*?(?=</div>\s*\n\s*---)", re.S)
+          replacement = '''## 📊 GitHub Stats
+
+<br/>
+
+<p align="center">
+  <img height="160" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="160" src="./profile/activity-graph.svg" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img height="160" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
+
+'''
+
+          updated, count = pattern.subn(replacement, text, count=1)
+          if count != 1:
+              raise SystemExit("GitHub Stats section not found")
+          path.write_text(updated, encoding="utf-8")
+          PY
+
+      - name: Commit generated cards and README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/*.svg
+          git add profile/*.svg README.md
           git diff --cached --quiet && exit 0
           git commit -m "chore(profile): update GitHub stats [skip ci]"
           git push
