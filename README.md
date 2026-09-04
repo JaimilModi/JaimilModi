@@ -27,31 +27,27 @@
 
 <br/>
 
-<!-- Row 1: Stats + Activity Graph -->
-<p>
-  <!-- Main GitHub Stats -->
-  <!-- <img
-    height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JaimilModi&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9&icon_color=c9d1d9"
-  /> -->
+<!-- GitHub Stats -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaimilModi&theme=github_dark&bg_color=00000000&title_color=c9d1d9&text_color=c9d1d9"
+  height="180"
+/>
 
-  <!-- Activity Graph (middle card instead of streak) -->
-  <img
-    height="160"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JaimilModi&bg_color=00000000&color=c9d1d9&line=c9d1d9&point=c9d1d9&area=true&hide_border=true"
-  />
-</p>
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=JaimilModi&theme=transparent&hide_border=true&background=00000000&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9"
+  height="180"
+/>
 
-<!-- Row 2: Top Languages -->
-<p>
-  <!-- <img
-    height="160"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JaimilModi&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&text_color=c9d1d9&title_color=c9d1d9"
-  />
-</p> -->
+<br/>
+
+<!-- Top Languages -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaimilModi&theme=github_dark&bg_color=00000000&title_color=c9d1d9&text_color=c9d1d9"
+  height="180"
+/>
 
 </div>
-
 
 
 ---
